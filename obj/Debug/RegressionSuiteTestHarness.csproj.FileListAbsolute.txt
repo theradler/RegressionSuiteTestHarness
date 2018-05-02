@@ -1,0 +1,11 @@
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\bin\Debug\RegressionSuiteTestHarness.exe.config
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\bin\Debug\RegressionSuiteTestHarness.exe
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\bin\Debug\RegressionSuiteTestHarness.pdb
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\obj\Debug\RegressionSuiteTestHarness.Properties.Resources.resources
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\obj\Debug\RegressionSuiteTestHarness.csproj.GenerateResource.Cache
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\obj\Debug\RegressionSuiteTestHarness.csproj.CoreCompileInputs.cache
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\obj\Debug\RegressionSuiteTestHarness.exe
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\obj\Debug\RegressionSuiteTestHarness.pdb
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\obj\Debug\RegressionSuiteTestHarness.Form1.resources
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\bin\Debug\System.Management.Automation.dll
+C:\Users\radler\source\repos\RegressionSuiteTestHarness\RegressionSuiteTestHarness\obj\Debug\RegressionSuiteTestHarness.csprojResolveAssemblyReference.cache
