@@ -63,10 +63,11 @@ namespace RegressionSuiteTestHarness
             using (PowerShell shellPower = PowerShell.Create())
             {
                 string VersionArg = "NA";
-                string BranchArg = "NA";
-                string DevArg = "NA";
+                string BranchArg = "TestHarness";
+                string DevArg = "QA";
                 string tePath = "C:\\Program Files (x86)\\SmartBear\\TestExecute 12\\Bin\\TestExecute.exe";
-                string GUID = Guid.NewGuid().ToString();
+                string GUID = null; 
+                GUID = Guid.NewGuid().ToString();
                 string localIP = GetIP();
                 string hostName = Dns.GetHostEntry("localhost").HostName;
                 if (!File.Exists(ProjectSuiteSelector.Text))
@@ -76,7 +77,7 @@ namespace RegressionSuiteTestHarness
                     return;
                 }
                 if (!String.IsNullOrWhiteSpace(Branch.Text))
-
+                    
                 {
                     BranchArg = QuoteWrap(Branch.Text);
                 }
